@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem 'fog'
+gem 'fog', '>= 1.14.0'
 gem 'mime-types'
-gem 'rake'
-gem 'nokogiri'
+gem 'rake', '>= 12.3.3'
+gem 'nokogiri', '>= 1.10.8'
